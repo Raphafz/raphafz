@@ -18,6 +18,8 @@ Estudante de Engenharia de Software na Univassouras, com formação técnica em 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+🌐 **Portfólio:** [raphafz.vercel.app](https://raphafz.vercel.app/)
+
 ## 🚀 Projetos em destaque
 
 - **[Verificador](https://github.com/Raphafz/verificador)**: SaaS multi-tenant para provedores de internet: viabilidade FTTH em mapas, alertas operacionais e operações em OLT/ONU, com isolamento por empresa, MFA e conformidade com a LGPD. *(Python, Django, PostgreSQL)*
@@ -28,4 +30,5 @@ Estudante de Engenharia de Software na Univassouras, com formação técnica em 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raphaelferrazz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelferrazz)
 [![GitHub](https://img.shields.io/badge/GitHub-Raphafz-181717?style=flat-square&logo=github)](https://github.com/Raphafz)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-raphafz.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://raphafz.vercel.app/)
 
